@@ -1,0 +1,11 @@
+img {
+    width: 500px;
+}
+h1,h2 {
+    border: 1px solid black;
+}
+html {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    background-color: #3AAFA9;
+}
