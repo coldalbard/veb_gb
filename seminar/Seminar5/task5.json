@@ -1,0 +1,27 @@
+{"people" : [
+    {
+      "name" : "Иван",
+      "surname" : "Иванов",
+      "age" : 37,
+      "hobbies" : {
+         "firstHobbi" : "рыбалка",
+         "secondHobbi" : "охота",
+         "trithHobbi" : "футбол"
+      },
+      "marriage" : "да",
+      "children" : {
+         "childrenFirst" : "Мария",
+         "childrenSecond" : "Николай"}
+    },
+    {
+        "name" : "Ольга",
+      "surname" : "Фролова",
+      "age" : 21,
+      "hobbies" : {
+         "firstHobbi" : "путешествия",
+         "secondHobbi" : "вышивание"},
+      "marriage" : "нет",
+      "children" : null
+    }
+]
+}
